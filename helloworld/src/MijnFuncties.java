@@ -24,7 +24,7 @@ String hoeveel = sterretje;
             System.out.println(sterretje);
             sterretje = hoeveel + sterretje; */
 
-
+/* extra commentaar in mijn functies*/
 
         int getal = 1;
 
